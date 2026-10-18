@@ -8,6 +8,8 @@ A navigation app that puts the experience ahead of speed. It suggests curated de
 
 ## Status
 
+**Focus: parked.** Not one of the featured prototypes for now. The featured three are 001, 002 and 004.
+
 Working prototype with a video demo, presented at a hackathon in September 2026 with a pitch deck. This repo is empty so far.
 
 ## 1. Problem statement
